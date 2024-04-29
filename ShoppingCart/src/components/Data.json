@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "amt": "12.99",
+      "shop": "Mamma Mia's",
+      "foodtype": "Italian",
+      "pic": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Tikka Masala",
+      "amt": "10.49",
+      "shop": "Taj Mahal Indian Cuisine",
+      "foodtype": "Indian",
+      "pic": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hamburger",
+      "amt": "8.99",
+      "shop": "Burger Barn",
+      "foodtype": "American",
+      "pic": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Sushi Platter",
+      "amt": "18.99",
+      "shop": "Sakura Sushi",
+      "foodtype": "Japanese",
+      "pic": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Pad Thai",
+      "amt": "11.99",
+      "shop": "Thai Palace",
+      "foodtype": "Thai",
+      "pic": "https://www.recipetineats.com/wp-content/uploads/2018/04/Chicken-Tikka-Masala_0-SQ.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Margherita Pizza",
+      "amt": "9.99",
+      "shop": "Pizzeria Italia",
+      "foodtype": "Italian",
+      "pic": "https://www.recipetineats.com/wp-content/uploads/2018/04/Chicken-Tikka-Masala_0-SQ.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Sashimi",
+      "amt": "15.99",
+      "shop": "Sakura Sushi",
+      "foodtype": "Japanese",
+      "pic": "https://www.recipetineats.com/wp-content/uploads/2018/04/Chicken-Tikka-Masala_0-SQ.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Pho",
+      "amt": "9.49",
+      "shop": "Pho King",
+      "foodtype": "Vietnamese",
+      "pic": "https://www.recipetineats.com/wp-content/uploads/2018/04/Chicken-Tikka-Masala_0-SQ.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Fish and Chips",
+      "amt": "10.99",
+      "shop": "British Bites",
+      "foodtype": "British",
+      "pic": "https://www.recipetineats.com/wp-content/uploads/2018/04/Chicken-Tikka-Masala_0-SQ.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Falafel Wrap",
+      "amt": "7.99",
+      "shop": "Shawarma Shack",
+      "foodtype": "Middle Eastern",
+      "pic": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Taco Platter",
+      "amt": "13.99",
+      "shop": "Taco Time",
+      "foodtype": "Mexican",
+      "pic": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Ramen",
+      "amt": "11.49",
+      "shop": "Ramen House",
+      "foodtype": "Japanese",
+      "pic": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Chicken Caesar Salad",
+      "amt": "9.99",
+      "shop": "Salad Stop",
+      "foodtype": "Salad",
+      "pic": "https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg"
+    }
+   
+  ]
+  
